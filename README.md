@@ -1,7 +1,7 @@
 # Andrew Bernas
 
 - 🔭 I am currently studying Weapons, Robotics, & Control Engineering at the United States Naval Academy
-- 🌱 I conduct research in robotics, focusing on autonomy, perception, and planning for mobile robots.
+- 🌱 I conduct research in perception-driven autonomy for uncrewed aerial vehicles (UAVs).
 - 📫 My personal homepage: https://www.andrewbernas.com/
 
 ### Interests 😮
